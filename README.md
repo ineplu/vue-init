@@ -1,4 +1,4 @@
-# vue-init
+# vue.js + Typescript
 
 ## Project setup
 ```
